@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### MY PORTFOLIO
+https://elain-b.github.io/Bern-Portfolio-site/
